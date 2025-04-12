@@ -4,8 +4,8 @@
 
 Santiago Isamel Riofrío Jaramillo
 
-- **Cedula:** 1104661168
-- **Teléfono:** 0982447695
+- **Cedula:** 1105126545
+- **Teléfono:** 0996654852
 - **Correo Institucional:** siriofrio@utpl.edu.ec
 - **Usuario GitHub:** santyago0
 - **Universidad:** Universidad Técnica Particular de Loja
